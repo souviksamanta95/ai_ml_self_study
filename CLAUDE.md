@@ -78,7 +78,7 @@ Each chapter folder contains:
 
 ---
 
-## Career Pivot — AI Engineering (In Progress)
+## Career Growth — Toward Senior Data Scientist (In Progress)
 
 - Actively learning AI Engineering in background alongside DS2 role at Coursera
 - Not in a hurry to switch — building evidence slowly and deliberately
@@ -113,7 +113,7 @@ Existing DS2 experience is being reframed as AI-adjacent:
 - CRM + churn analytics → predictive ML pipelines
 - SQL + Python pipelines → data engineering for ML feature stores
 
-**Target roles when ready:** Applied AI Engineer, ML Engineer, Senior DS (AI/ML) — Series B/C startups preferred over big tech
+**Target roles when ready:** Senior Data Scientist — Series B/C startups preferred over big tech
 
 **Coursera narrative:** saw AI transform learning firsthand, pushed to build AI systems myself
 
